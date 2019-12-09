@@ -1,2 +1,2 @@
-# homework02
+# mikebaska.github.io
 My second homework.
